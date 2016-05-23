@@ -14,7 +14,7 @@ West End Tavern - Excellent flights
 # Las Vegas, NV
 
 The Whiskey Attic
-This one is a little trickier. To visit this place you need to get a group and set up an appointment. Visiting includes a great tasting based on your flavor preferences. It's about $100/person and worth it for a great tasting experience. I attend this at EMC World 2016 - it was awesome, hight recommended with a group of like minded individuals !  
+This one is a little trickier. To visit this place you need to get a group and set up an appointment. Visiting includes a great tasting based on your flavor preferences. It's about $100/person and worth it for a great tasting experience.  
 
 Rose. Rabbit. Lie - Cosmopolitan
 Great atmosphere. Live music. Great bartenders.
@@ -34,21 +34,23 @@ Foundation - Great "hidden" spot for excellent cocktails
 Bourbon and Branch - Awesome atmosphere
 Bourbon Steak - Try Smoked Whiskey Flight
 Hard Water - OMG Selection
-**Local Edition Speakeasy** - trust me, its a MUST STOP !  They have live music most of the night, it's amazing.
+**Local Edition Speakeasy** - trust me, its a MUST STOP !  They have live music most of the night, it's amazing. - @vTexan 
 
 # Austin, Tx
-Midnight Cowboy Speakeasy - use Opentable to schedule - it's off of 6th street.
+Midnight Cowboy Speakeasy - use Opentable to schedule - it's off of 6th street. - @vTexan
 
 # Dallas
-Pepper Smash - Plano (Shops of Legacy)
-Whiskey Cakes - Plano (Parker/Tollway)
+Pepper Smash - Plano (Shops of Legacy) - @vTexan
+Whiskey Cakes - Plano (Parker/Tollway) - @vTexan
 
 # San Antonio
-Bohana's Steakhouse - Downtown San Antonio - kick ass bar downstairs
+Bohana's Steakhouse - Downtown San Antonio - kick ass bar downstairs - @vTexan
+Whiskey Cakes - @vTexan
 
 # San Jose, CA
 Paper Plane
-Roots and Rye
+Roots and Rye - @vTexan
+Haberdasher Speakeasy - @vTexan
 
 # Toronto, ON
 
