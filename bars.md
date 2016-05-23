@@ -16,7 +16,6 @@ West End Tavern - Excellent flights
 The Whiskey Attic
 This one is a little trickier. To visit this place you need to get a group and set up an appointment. Visiting includes a great tasting based on your flavor preferences. It's about $100/person and worth it for a great tasting experience. I attend this at EMC World 2016 - it was awesome, hight recommended with a group of like minded individuals !  
 
-
 Rose. Rabbit. Lie - Cosmopolitan
 Great atmosphere. Live music. Great bartenders.
 They should know how to make a quality Brooklyn and Sazerac.
@@ -40,14 +39,21 @@ Hard Water - OMG Selection
 # Austin, Tx
 Midnight Cowboy Speakeasy - use Opentable to schedule - it's off of 6th street.
 
-San Jose, CA
-Paper Plane - Recommended by @vtexan
+# Dallas
+Pepper Smash - Plano (Shops of Legacy)
+Whiskey Cakes - Plano (Parker/Tollway)
+
+# San Antonio
+Bohana's Steakhouse - Downtown San Antonio - kick ass bar downstairs
+
+# San Jose, CA
+Paper Plane
+Roots and Rye
 
 # Toronto, ON
 
 The Merchant - Owner is lover of whiskey. Does very cool barrel-aged old fashioned and manhattans.
-<<<<<<< HEAD
-=======
+
 
 # West Palm Beach, FL
 Blue Martini
