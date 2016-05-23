@@ -1,4 +1,4 @@
-I like whiskey (a lot), and whisky depending on where it's from. I generally drink bourbon but I'm equal opportunity. This repo is where I'll keep some notes on the Whiskey that I have, have tried, still want to obtain, etc. Over time I may even get clever and start organizing them in meaningful ways for both myself and for you. Open to suggestions! By the way, I totally stole this idea from Josh Atwell, you can fork his work from here: https://github.com/joshatwell/whiskey 
+I like whiskey (a lot), and whisky depending on where it's from. I generally drink bourbon but I'm equal opportunity. This repo is where I'll keep some notes on the Whiskey that I have, have tried, still want to obtain, etc. Over time I may even get clever and start organizing them in meaningful ways for both myself and for you. Open to suggestions! By the way, I totally stole this idea from Josh Atwell, you can fork his work from here: https://github.com/joshatwell/whiskey
 
 Opinions on spirits vary, but I"ll consider this an outline based on MY preferences, in case you wondered what I liked to drink. I'll put the ones that make me smile the most in **bold**.
 
@@ -13,8 +13,13 @@ Here are the whiskeys I drink on a mostly regular basis. They get restocked easi
 * **W L Weller 12 year**
 * **Blanton's**
 * Buffalo Trace
-* Woodford Reserve - Distillers Select 
+* Woodford Reserve - Distillers Select
+* Woodford Reserver - Rye
 * Knob Creek Small Batch - 9year aged
+* **Jameson Distillers Reserve 12 year**
+* **Jameson Caskmates**
+* Jameson Irish Whiskey
+
 
 Here are a Bourbon's that are in my unoppened collection
 
@@ -22,32 +27,34 @@ Here are a Bourbon's that are in my unoppened collection
 * Knob Creek Single Barrel - 120proof
 * IW Harper 15 Year
 * Whitmeyer's Barrel Selection #1 Bottle #153 (11, April 2015)
+* Whitmeyer's Barrel Selection - Barrel Proof Barrel #16 (13, April 2016)
 * Rehtoric - 21 year Aged
-* Elijah Craig Barrel Proof 139.8, 69.9 % ALC/Vol (2ea) 
+* Elijah Craig Barrel Proof 139.8, 69.9 % ALC/Vol (2ea)
 * Elijah Craig Small Batch 12 year
 * Elmer T Lee - Single Barrel Sour Mash
 * W L Weller - 12 year 1.75L (4ea)
 * W L Weller - 12 year 750m (1ea)
-* Old Weller Antique 107 750ml 
+* Old Weller Antique 107 750ml
 * Old Forester Single Barrel - 90 proof
 * Markers Mark Cask Strenght - 113.3proof, 56.7%alc/vol 375ml
 * Stagg Jr 132.2proof 66.10 %alc/vol 750ml
 * Woodford Reserve - Distiller's Select 1.75ml
-* 
+* 1792 Single Barrel
+* Rowans Creek
 
-These are Store barrel selects or special bottlings 
+These are Store barrel selects or special bottling
 
 * Eagle Rare - 10year Age Statement (Natick Wine & Spirits Store Pick)
 * Henry McKenna - 10 years - Barrel No 1282 - Barreled on 4-10-03 - Lock and Key
-* Blanton's - Lock and Key Barrel Select (2ea) 
+* Blanton's - Lock and Key Barrel Select (2ea)
 * Buffalo Trace - Single Barrel - EMC Event
 
 
 ## rye whiskeys
 
-* **Crown Royal Northern Harvest Rye** (2ea)
+* **Crown Royal Northern Harvest Rye** (3ea)
 * Sazerac Rye
-* Woodford Reserve Rye
+* High West - Double Rye
 
 ## Irish Whisky
 
@@ -56,8 +63,10 @@ These are Store barrel selects or special bottlings
 * Yellow Spot - 12 years
 * Crested Ten 1780
 * Jameson Select Reserve Cask Strength - Black Barrel Bottle No24
-* Old Tom Horan Irish Whiskey - 6(ea) Bottles 
+* Jameson "Dublin, our City Commerative Bottle" (2ea)
+* Old Tom Horan Irish Whiskey - 6(ea) Bottles
 
+## Total Bottles = 60~ bottles
 
 # whiskey pull requests
 If you see these out in the wild please send me a message with price. I may have you pick it up for me. :-)
