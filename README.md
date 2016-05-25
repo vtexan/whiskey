@@ -4,6 +4,8 @@ Opinions on spirits vary, but I"ll consider this an outline based on MY preferen
 
 Finally, I don't have a drinking problem. I have a whiskey buying problem. Drinking problem means your recycle bin is full. My problem means I need a bigger liquor cabinet. :-)
 
+![img https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13055388_10154117962612288_3665847262983663499_n.jpg?oh=09cc0fdfe9d5165fa30ca4f6711edac5&oe=57CFEE5E]
+
 # whiskey I usually have
 
 ## bourbon whiskeys
